@@ -28,16 +28,16 @@ Average methodology.
 - Company fully recovered from COVID by Q1 2021
 
 ## 📁 Files
-File and Description 
-
--financial_forecasting.ipynb | Full Python analysis notebook 
--palmtrade_financial.csv | Raw dataset (300 rows) 
--palmtrade_financial_clean.csv | Cleaned dataset 
--palmtrade_monthly_summary.csv | Monthly aggregated data 
-- PalmTrade_Financial_Dashboard.pbix | Power BI dashboard 
--chart1_revenue_trend.png | Revenue trend analysis 
--chart2_profitability.png | Profitability breakdown 
--chart3_revenue_forecast.png | 2024 revenue forecast 
+| File | Description |
+|------|-------------|
+| financial_forecasting.ipynb | Full Python analysis notebook |
+| palmtrade_financial.csv | Raw dataset (300 rows) |
+| palmtrade_financial_clean.csv | Cleaned dataset |
+| palmtrade_monthly_summary.csv | Monthly aggregated data |
+| PalmTrade_Financial_Dashboard.pbix | Power BI dashboard |
+| chart1_revenue_trend.png | Revenue trend analysis |
+| chart2_profitability.png | Profitability breakdown |
+| chart3_revenue_forecast.png | 2024 revenue forecast |
 
 ## 💡 Business Recommendations
 1. Invest more in Lagos — consistently highest revenue region
